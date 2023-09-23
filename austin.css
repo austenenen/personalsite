@@ -1,0 +1,180 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    padding-top: 5px;
+    font-family: 'UnifrakturCook', cursive;
+    font-size: 6.2rem;
+    color: #171717;
+}
+
+h2{
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 3rem;
+    color: #dca42e;
+}
+
+p {
+    font-family: 'Old Standard TT', serif;
+    font-size: large;
+    line-height: 2;
+    color: white;
+}
+
+.middle p {
+    margin-bottom: 17%;
+}
+
+.flute {
+    width: 33%;  
+    height: 33%;
+    margin-bottom: 20px;
+}
+
+.middle h2 {
+    color: #171717;
+    font-family: 'UnifrakturMaguntia', cursive;
+    size: 4rem;
+}
+
+.me {
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
+
+.profile {
+    margin: auto;
+    width: 50%;
+}
+
+.pro {
+    text-decoration: underline;
+    color: #dca42e;
+}
+/*Top Section*/
+
+.top {
+    padding-top: 1px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 0px;
+    text-align: center;
+    background-color: #e3dac9;
+}
+
+.middle {
+    padding: 50px;
+    text-align: center;
+    background-color: #bd2420;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 33%;
+    margin: 50px auto;
+    color: #dca42e;
+}
+
+h3 {
+    color: white;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 1.5rem;
+}
+
+.skill-row h3 {
+    color: white;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 2.25rem;
+}
+
+.guitar {
+    height: 360px;
+    width: auto;
+    margin-bottom: 10%;
+    margin-right: 10%;
+    float: left;
+}
+
+.photo {
+    height: 320px;
+    width: auto;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    float: right;
+}
+
+.roman {
+    height: 320px;
+    width: auto;
+    margin-right: 10%;
+    float: left;
+}
+
+
+.skill-row {
+    margin: auto;
+    text-align: left;
+    width: 75%;
+}
+
+.contact-msg {
+    width: 30%;
+    margin: auto;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #171717;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 29px;
+    font-weight: 100;
+    padding: 29px;
+    background-color: #e3dac9;
+    -webkit-box-shadow: 1px 1px 20px 0 #171717;
+    -moz-box-shadow: 1px 1px 20px 0 #171717;
+    box-shadow: 1px 1px 20px 0 #171717;
+    border: solid #e3dac9 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #dca42e;
+    border: solid #bd2420 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .bottom {
+    background-color: #171717;
+    text-align: center;
+    padding: 30px;
+
+}
+
+ .footer-link{
+    color: #171717;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Old Standard TT', serif;
+    color: #bd2420;
+    margin: 0 30px;
+ }
+
+ .footer-link:hover{
+    color: #e3dac9;
+ }
+
+ .credit {
+    margin-top: 20px;
+ }
